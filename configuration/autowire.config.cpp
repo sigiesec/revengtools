@@ -6,6 +6,8 @@ cpp.cpp_if.CppDataSupply=cpp.file_supply.FileCppDataSupplier
 
 cpp.cpp_if.FileToModuleMapSupply=cpp.file_supply.FileFileToModuleMapSupply
 
+cpp.cpp_if.CppPaths=configuration.config_default.RevEngToolsCppPaths
+
 cpp.header_linker_if.HeaderLinker=cpp.header_linker_default.DefaultHeaderLinker
 
 cpp.incl_deps.include_link_lifter_if.ModuleLinks=cpp.incl_deps.include_link_lifter_util.ModuleLinksImpl
